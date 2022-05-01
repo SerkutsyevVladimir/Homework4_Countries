@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_add_countries_text_input_layout_layout_margin">16dp</dimen>
+    <dimen name="fragment_add_countries_button_layout_margin_vertical">16dp</dimen>
+    <dimen name="fragment_bottom_navigation_layout_height">0dp</dimen>
+    <dimen name="fragment_list_recycler_view_padding">16dp</dimen>
+</resources>
